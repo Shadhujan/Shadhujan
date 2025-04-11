@@ -15,9 +15,7 @@
 <!-- ==================== SNAKE ANIMATION ==================== -->
 ## 🐍 Contribution Snake 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shadhujan/Shadhujan/output/github-contribution-grid-snake.svg" 
-       alt="Snake animation" 
-       style="max-width: 100%; border-radius: 5px; margin: 0 auto;">
+  <img src="dist/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 </div>
 
 <!-- ==================== AUTOMATED ACTIVITY ==================== -->
