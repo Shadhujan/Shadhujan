@@ -1,10 +1,8 @@
 name: Update GitHub Profile README
-
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
+    - cron: '0 */12 * * *'  # Runs every 12 hours (fixed syntax)
   workflow_dispatch:  # Allows manual triggering
-
 jobs:
   update-readme:
     name: Update Profile README
@@ -16,7 +14,6 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-
       # Generate Snake Animation
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -25,16 +22,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       # Update Recent Activity
       - name: Update Recent GitHub Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}  # Using PAT instead of GITHUB_TOKEN
         with:
           COMMIT_MSG: 'Updated recent activity'
           MAX_LINES: 5
-
       # Commit and push changes
       - name: Commit and Push changes
         run: |
@@ -46,5 +41,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT }}  # Using PAT instead of GITHUB_TOKEN
           branch: ${{ github.ref }}
