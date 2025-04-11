@@ -15,7 +15,7 @@
 <!-- ==================== SNAKE ANIMATION ==================== -->
 ## 🐍 Contribution Snake 
 <div align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+  <img src="dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;">
 </div>
 
 <!-- ==================== AUTOMATED ACTIVITY ==================== -->
