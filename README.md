@@ -1,5 +1,5 @@
 <!-- ==================== DYNAMIC HEADER ==================== -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Hi+👋+I'm+Shadhujan;Computer+Science+Undergraduate⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Hi+👋+I'm+Shadhujan;Fullstack+Developer💻:Computer+Science+Undergraduate⚡)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shadhujan&style=flat-square&color=blue)
 
