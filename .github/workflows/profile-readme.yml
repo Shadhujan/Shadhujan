@@ -30,6 +30,7 @@ jobs:
         with:
           COMMIT_MSG: 'Updated recent activity'
           MAX_LINES: 5
+          DISABLE_EMPTY_COMMITS: true
       # Commit and push changes
       - name: Commit and Push changes
         run: |
