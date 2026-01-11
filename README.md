@@ -6,12 +6,31 @@
 <!-- ==================== DYNAMIC HEADER ==================== -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Fullstack+Developer💻;Computer+Science+Graduate⚡;.Net+Enthusiast🕵🏻)](https://git.io/typing-svg)
 
+<div align="center">
+  <div style="
+    background: url('https://i.imgur.com/8BzYp8s.png') center/cover;
+    padding: 30px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    color: #FFE81F;
+    font-family: 'Courier New', monospace;
+    max-width: 600px;
+    margin: 20px auto;
+  ">
+    <h2 style="letter-spacing: 3px;">
+      ✦ DO OR DO NOT, THERE IS NO TRY ✦
+      <br>
+    </h2>
+    <p style="color: white; margin-top: 15px;">— Y O D A</p>
+  </div>
+</div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Shadhujan&style=flat-square&color=blue)
 
 - 🔭 I’m currently Looking for an ASE/SE opportunity.
 - 🤪 Check out my [Portfolio↗️]([https://shadhujann.vercel.app/](https://shadhujan-portfolio.vercel.app/))
 - 🌱 I’m currently learning **.NET and AI technologies*
-- 💬 Ask me about **C#, MERN, Python,  Js*
+- 💬 Ask me about *C#, MERN, Python,  Js*
 - 📫 How to reach me **jeya38shadhujan@gmail.com**
 
 <!-- ==================== AUTOMATED STATS ==================== -->
